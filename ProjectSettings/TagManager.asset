@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Platform
+  - Trap
+  - GreenGem
+  - Heart
+  - Key
+  - DeadLine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Ground
+  - PLatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG3
+    uniqueID: 2389492703
+    locked: 0
+  - name: BG2
+    uniqueID: 572411851
+    locked: 0
+  - name: BG1
+    uniqueID: 1236476737
+    locked: 0
+  - name: BackTile_4
+    uniqueID: 2695452243
+    locked: 0
+  - name: BackTile_3
+    uniqueID: 3452718851
+    locked: 0
+  - name: BackTile_2
+    uniqueID: 2577897547
+    locked: 0
+  - name: BackTile_1
+    uniqueID: 1584073293
+    locked: 0
+  - name: PlatformTile
+    uniqueID: 136355589
+    locked: 0
+  - name: Enemies
+    uniqueID: 1425010589
+    locked: 0
+  - name: Traps
+    uniqueID: 2898308055
+    locked: 0
+  - name: Collectables
+    uniqueID: 1903155927
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3552407315
+    locked: 0
+  - name: Dust
+    uniqueID: 1501202811
+    locked: 0
+  - name: Ground
+    uniqueID: 119870235
+    locked: 0
+  - name: Grass
+    uniqueID: 1078879043
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
